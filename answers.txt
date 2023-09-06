@@ -1,0 +1,2 @@
+What is a remote repository?
+A remote repository is a different computer (server or database) that the repository is stored, used for collaboration and safety in case of deletion, etc. Github is the most common remote repository. (and what we are using!)
